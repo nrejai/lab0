@@ -17,19 +17,20 @@
 
 <html>
 <body>
+	<!-- headings -->
 	<h1> Nikki Rejai </h1>
+	<!-- section links -->
+	# Contents
+	- [Background](#Background) 
+    - [Hobbies](#Hobbies)
+  	<a name="Programming">Programming</a>
 	<!-- image -->
 	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width=200px height=auto;>
-	<!-- headings -->
 	<h5> Background </h5>
-		<p> My family is Persian. My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD and I am hoping to join the Persian Student Association  
-		<a href="https://www.iranianstudentsca.org/iranian-student-organizations">(PASA)</a>
-		<!--[(PASA)]](https://www.iranianstudentsca.org/iranian-student-organizations) --> <!-- external link --> on campus this year to feel closer to home!
+		<p> My family is Persian. My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD studing and I am hoping to join the Persian Student Association  <a href="https://www.iranianstudentsca.org/iranian-student-organizations">(PASA)</a> <!-- external link --> on campus this year to feel closer to home!
 	<h5> Hobbies </h5>
 		<ul> 
-			<li> My interests have always been in performing arts since before I can remember. In the realm of music and arts, my most consistent hobbies have been singing and dancing. I was in multiple competition groups high school. Now I continue with my passion in music through pursuing a cappella group UCSD. I am in a group called the 
-			<a href="https://www.tritones.ucsd.edu">Tritones</a>
-			<!-- [Tritones](https://www.tritones.ucsd.edu)--> <!-- external link --> and this year I am the performance director. I look forward to competing at ICCA competitions either this year or next year! </li>
+			<li> My interests have always been in performing arts since before I can remember. In the realm of music and arts, my most consistent hobbies have been singing and dancing. I was in multiple competition groups high school. Now I continue with my passion in music through pursuing a cappella group UCSD. I am in a group called the <a href="https://www.tritones.ucsd.edu">Tritones</a> <!-- external link --> and this year I am the performance director. I look forward to competing at ICCA competitions either this year or next year! </li>
 			<li> Another interest of mine is traveling! I have traveled with my family a lot, from roadtriping across Oregon to see waterfalls to going to Majorca for the beaches. I am so grateful to have been able to experience these places with my family, and hope to continue this passtime in the future as well. </li>
 		</ul>
 	<h5> Programming </h5>
