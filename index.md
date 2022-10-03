@@ -5,7 +5,7 @@
 .purple {background-color: thistle;}
 h6 {color: powderblue}
 </style> -->
-
+ <link href="index.css" rel="stylesheet"></link> 
 <body>
 	<h1> Nikki Rejai </h1>
 	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width="200" height="240">
