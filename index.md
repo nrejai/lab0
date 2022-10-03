@@ -18,12 +18,12 @@
 <html>
 <body>
 	<!-- headings -->
-	#### Nikki Rejai 
+	<h3 >Nikki Rejai  </h3>
 	<!-- section links -->
-	# Contents
-	- [Background](#Background) 
-    - [Hobbies](#Hobbies)
-  	- [Programming](#Programming)
+	<h4> Contents </h4>
+		<h6> Background(#Background) </h6>
+		<h6> Hobbies(#Hobbies) </h6>
+  		<h6> [Programming](#Programming)</h6> 
 	<!-- image -->
 	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width=200px height=auto;>
 	<h5> Background </h5>
