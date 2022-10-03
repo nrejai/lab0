@@ -11,7 +11,7 @@
 <body>
 	<h1> Nikki Rejai </h1>
 	<!-- image -->
-	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width="200" height="240">
+	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" max-width=50% height=auto;> <!-- width="220" height="240"> -->
 	<h6> Background </h6>
 		<p> My family is Persian. My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD and I am hoping to join the Persian Student Association on campus this year to feel closer to home!
 	<h6> Hobbies </h6>
