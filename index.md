@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-<style>
-	.green {
-    	color: green;
-    	font-weight:700;
-    	font-size: 30px;
-	}
-/* background-color: thistle;
-h6 {color: powderblue} */
-</style>
-<link href="index.css" rel="stylesheet"></link> 
+<link href="style.css" rel="stylesheet"></link> 
 <body>
 	<h1> Nikki Rejai </h1>
 	<!-- image -->
