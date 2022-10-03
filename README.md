@@ -1,1 +1,1 @@
-# lab0
+Nikki Rejai - Lab 0 & 1 Assignment
