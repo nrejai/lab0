@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <!-- quoting text -->
 <!-- quoting code -->
 <!-- external links -->
@@ -11,7 +9,7 @@
 	<!-- headings -->
 	<h3 >Nikki Rejai  </h3>
 	<!-- section links -->
-	<h4><u> Contents <u></h4>
+	<h4><u> Contents </u></h4>
 		<!-- styling text -->
 		<span style="line-height:0.5">
 		<ul> 
@@ -23,7 +21,7 @@
 	<!-- image -->
 	<!-- <img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width=200px height=auto;> -->
 	<picture>
-  		<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg">
+  		<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg" width=200px height=auto>
 	</picture>
 	<h5> Background </h5>
 		<p> My family is Persian. My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD studing and I am hoping to join the Persian Student Association  <a href="https://www.iranianstudentsca.org/iranian-student-organizations">(PASA)</a> <!-- external link --> on campus this year to feel closer to home!
