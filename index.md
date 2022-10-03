@@ -18,12 +18,12 @@
 <html>
 <body>
 	<!-- headings -->
-	<h1> Nikki Rejai </h1>
+	<#### Nikki Rejai 
 	<!-- section links -->
 	# Contents
 	- [Background](#Background) 
     - [Hobbies](#Hobbies)
-  	<a name="Programming">Programming</a>
+  	- [Programming](#Programming)
 	<!-- image -->
 	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width=200px height=auto;>
 	<h5> Background </h5>
@@ -41,7 +41,7 @@
 			<li> Currently, the applications I have explored in the CS-related fields have been in Bioinformatics. I have done two research projects in this field:
 			<!-- ordered list -->
 				<ol>
-					<li> finding a gene signature to better identify tuberculosis in patients using Boolean analysis </li>
+					<span style="color:blue"> <li> finding a gene signature to better identify tuberculosis in patients using Boolean analysis </li> </span>
 					<li> metabolic pathway analysis: using graph neural networks to model metabolic data and find pathways for unannotated genes and compounds </li>
    				</ol>  
   			<li> Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.</li>
