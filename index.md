@@ -1,9 +1,3 @@
-<!-- quoting text -->
-<!-- quoting code -->
-<!-- external links -->
-<!-- relative links -->
-<!-- task lists -->
-
 <html>
 <body>
 	<!-- headings -->
@@ -23,6 +17,8 @@
 	<picture>
   		<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg" width=200px height=auto>
 	</picture>
+	<!-- relative links -->
+	<a href="README.md">Check out my **README!**</a>
 	<h5> Background </h5>
 		<p> My family is Persian. My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD studing and I am hoping to join the Persian Student Association  <a href="https://www.iranianstudentsca.org/iranian-student-organizations">(PASA)</a> <!-- external link --> on campus this year to feel closer to home!
 	<h5> Hobbies </h5>
@@ -41,7 +37,25 @@
 					<li> metabolic pathway analysis: using graph neural networks to model metabolic data and find pathways for unannotated genes and compounds </li>
    				</ol>  
   			<li> Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.</li></ul>
-end
+			
+<!-- quoting text -->
+> Reach for the stars so if you fall you land in the clouds.
+
+<!-- quoting code -->
+```
+if (UCSD > UCLA) {
+	return true
+true
+```
+
+<!-- task lists -->
+
+Check my LinkedIn Profile
+
+code - UCSD > UCLA
+
+bold italics
+
 </body>
 </html>
 
