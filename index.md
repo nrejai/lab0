@@ -18,7 +18,7 @@
 <html>
 <body>
 	<!-- headings -->
-	<#### Nikki Rejai 
+	#### Nikki Rejai 
 	<!-- section links -->
 	# Contents
 	- [Background](#Background) 
