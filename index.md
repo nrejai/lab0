@@ -13,11 +13,11 @@
 	<!-- section links -->
 	<h4> Contents </h4>
 		<!-- styling text -->
-		<span style="line-height: 0.8">
+		<span style="line-height:0.5">
 		<ul> 
-			<li> <h6> [Background] </h6> </li>
-			<li> <h6> [Hobbies] </h6> </li> 
-  			<li> <h6> #Programming </h6> </li> 
+			<h6> Background </h6>
+			<h6> Hobbies </h6>
+  			<h6> Programming </h6>
 		</ul>
 		</span>
 	<!-- image -->
@@ -40,13 +40,7 @@
 					<span style="color:blue"> <li> finding a gene signature to better identify tuberculosis in patients using Boolean analysis </li> </span>
 					<li> metabolic pathway analysis: using graph neural networks to model metabolic data and find pathways for unannotated genes and compounds </li>
    				</ol>  
-  			<li> Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.</li>
-		</ul>
-	<!-- block quote -->
-	<blockquote>
-        <p> block quote example</p>
-    </blockquote>
-
+  			<li> Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.</li></ul>
 </body>
 </html>
 
