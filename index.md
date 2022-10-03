@@ -7,17 +7,18 @@
     	font-weight:700;
     	font-size: 30px;
 	}
-/* background-color: thistle; */
-/* <!-- h6 {color: powderblue} */
+/* background-color: thistle;
+h6 {color: powderblue} */
 </style>
 <link href="index.css" rel="stylesheet"></link> 
 <body>
-<div class="green">
 	<h1> Nikki Rejai </h1>
 	<!-- image -->
 	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width="200" height="240">
 	<h6> Background </h6>
-	<p> from oregon always been into arts im persian </p>
+	<div class="green">
+		<p> from oregon always been into arts im persian </p>
+	</div>
 	<h6> Hobbies </h6>
 	<p> singing, dancing, traveling </p>
 	<h6> Programmer </h6>
@@ -32,7 +33,6 @@
 	<blockquote>
         <p>block quote example</p>
     </blockquote>
-</div>
 </body>
 </html>
 
