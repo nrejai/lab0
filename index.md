@@ -3,9 +3,8 @@
 <html>
 <head>
 <style>
-body {
-  background-color: thistle;
-}
+body {background-color: thistle;}
+h6 {color: powderblue}
 </style>
 </head>
 <body>
@@ -20,6 +19,5 @@ body {
 	started exploring cs in college, switched to math/cs
 	now I really enjoy cs/programming 
 	excited to learn more about what it means to be a SE 
-
 </body>
 </html>
