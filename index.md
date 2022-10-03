@@ -1,17 +1,8 @@
 <!DOCTYPE html>
-<!-- styling attempt
-<span style="color:red"> *some emphasized markdown text*</span>
-	<span style="color:blue">some *blue* text</span>
-	<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-	box
-	</div>
-<link href="style.css" rel="stylesheet"></link>  -->
 
-<!-- styling text -->
 <!-- quoting text -->
 <!-- quoting code -->
 <!-- external links -->
-<!-- section links -->
 <!-- relative links -->
 <!-- task lists -->
 
@@ -21,9 +12,14 @@
 	<h3 >Nikki Rejai  </h3>
 	<!-- section links -->
 	<h4> Contents </h4>
-		<h6> Background(#Background) </h6>
-		<h6> Hobbies(#Hobbies) </h6>
-  		<h6> [Programming](#Programming)</h6> 
+		<!-- styling text -->
+		<span style="line-height: 0.8">
+		<ul> 
+			<li> <h6> [Background] </h6> </li>
+			<li> <h6> [Hobbies] </h6> </li> 
+  			<li> <h6> #Programming </h6> </li> 
+		</ul>
+		</span>
 	<!-- image -->
 	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width=200px height=auto;>
 	<h5> Background </h5>
@@ -50,6 +46,7 @@
 	<blockquote>
         <p> block quote example</p>
     </blockquote>
+
 </body>
 </html>
 
