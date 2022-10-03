@@ -22,21 +22,25 @@
 	<img src="pictures/DSC08971copy2.jpg" alt="nikki headshot" width=200px height=auto;>
 	<!-- headings -->
 	<h5> Background </h5>
-		<p> My family is Persian. My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD and I am hoping to join the Persian Student Association on campus this year to feel closer to home!
+		<p> My family is Persian. My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD and I am hoping to join the Persian Student Association [(PASA)]](https://www.iranianstudentsca.org/iranian-student-organizations) <!-- external link --> on campus this year to feel closer to home!
 	<h5> Hobbies </h5>
 		<ul> 
-		<li> My interests have always been in performing arts since before I can remember. In the realm of music and arts, my most consistent hobbies have been singing and dancing. I was in multiple competition groups high school. Now I continue with my passion in music through pursuing a cappella group UCSD. I am in a group called the tritones and this year I am the performance director. I look forward to competing at ICCA competitions either this year or next year! </li>
-		<li> Another interest of mine is traveling! I have traveled with my family a lot, from roadtriping across Oregon to see waterfalls to going to Majorca for the beaches. I am so grateful to have been able to experience these places with my family, and hope to continue this passtime in the future as well. </li>
+			<li> My interests have always been in performing arts since before I can remember. In the realm of music and arts, my most consistent hobbies have been singing and dancing. I was in multiple competition groups high school. Now I continue with my passion in music through pursuing a cappella group UCSD. I am in a group called the [Tritones](https://www.tritones.ucsd.edu) <!-- external link --> and this year I am the performance director. I look forward to competing at ICCA competitions either this year or next year! </li>
+			<li> Another interest of mine is traveling! I have traveled with my family a lot, from roadtriping across Oregon to see waterfalls to going to Majorca for the beaches. I am so grateful to have been able to experience these places with my family, and hope to continue this passtime in the future as well. </li>
 		</ul>
 	<h5> Programming </h5>
 	<!-- unordered list -->
-		* I have been passionate about math since elementary school, so I entered my first year in college as an applied math major
-  		* During my first quarter I took a CS course and which sparked my interest in the field. As I  explored CS further in college, I switched my major to Math/Computer to take more programming classes.
-		* Currently, the applications I have explored in the CS-related fields have been in Bioinformatics. I have done two research projects in this field:
+		<ul>
+			<li> I have been passionate about math since elementary school, so I entered my first year in college as an applied math major </li>
+  			<li> During my first quarter I took a CS course and which sparked my interest in the field. As I  explored CS further in college, I switched my major to Math/Computer to take more programming classes.</li>
+			<li> Currently, the applications I have explored in the CS-related fields have been in Bioinformatics. I have done two research projects in this field:
 			<!-- ordered list -->
-			1. finding a gene signature to better identify tuberculosis in patients using Boolean analysis 
-			2. metabolic pathway analysis: using graph neural networks to model metabolic data and find pathways for unannotated genes and compounds 
-  		*Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.
+				<ol>
+					<li> finding a gene signature to better identify tuberculosis in patients using Boolean analysis </li>
+					<li> metabolic pathway analysis: using graph neural networks to model metabolic data and find pathways for unannotated genes and compounds </li>
+   				</ol>  
+  			<li> Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.</li>
+		</ul>
 	<!-- block quote -->
 	<blockquote>
         <p> block quote example</p>
