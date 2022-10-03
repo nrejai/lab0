@@ -41,6 +41,7 @@
 					<li> metabolic pathway analysis: using graph neural networks to model metabolic data and find pathways for unannotated genes and compounds </li>
    				</ol>  
   			<li> Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.</li></ul>
+end
 </body>
 </html>
 
