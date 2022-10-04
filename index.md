@@ -30,7 +30,7 @@
 	<!-- unordered list -->
 		<ul><li> I have been passionate about math since elementary school, so I entered my first year in college as an applied math major </li>
   			<li> During my first quarter I took a CS course and which sparked my interest in the field. As I  explored CS further in college, I switched my major to Math/Computer to take more programming classes.</li>
-			<li> Currently, the applications I have explored in the CS-related fields have been in Bioinformatics. I have done two research projects in this field:
+			<li> Currently, the applications I have explored in the CS-related fields have been in Bioinformatics. I have done two research projects in this field: </li>
 			<!-- ordered list -->
 				<ol>
 					<li> finding a gene signature to better identify tuberculosis in patients using Boolean analysis </li>
