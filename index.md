@@ -1,22 +1,26 @@
 <!-- <markdown>
 <head>
-  <link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body> -->
 
+<link rel="stylesheet" href="style.css">
+
 <!-- headings -->
 
-### Nikki Rejai
+# Nikki Rejai's Bio
 
 <!-- section links -->
 
-#### Contents 
+#### Contents: 
 
 <!-- styling text -->
 <!--<span style="line-height:0.5"> -->
 <!-- relative links -->
 <!-- <a href="README.md">README</a> -->
 <!-- section links -->
+<span style="color:CornflowerBlue" text-align="center">
+
 [Background](# Background) 
 [Hobbies](# Hobbies)
 [Programming](# Programming)
@@ -24,11 +28,16 @@
 [Code](# My Favorite Piece of Code I've Written)
 [Tasks](# My Current Task List)
 
+</span>
+
 <!-- image -->
 
-![](pictures/DSC08971copy2.jpg)
+<picture>
 	<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg" width=200px height=auto>
 </picture>
+
+
+
 
 <!-- <span style="color:CornflowerBlue">  -->
 	
@@ -36,7 +45,7 @@
 
 <!-- external link -->
 
-My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most o*f my life until college. Now I am beginning my third year at UCSD studing and I am hoping to join the Persian Student Association  [(PASA)](https://www.iranianstudentsca.org/iranian-student-organizations) on campus this year to feel closer to home! 
+My parents moved to the US from Iran for graduate school. I was born in Mountain View, California and moved to Eugene, Oregon when I was 2 months old and lived there my most of my life until college. Now I am beginning my third year at UCSD studing and I am hoping to join the Persian Student Association  [(PASA)](https://www.iranianstudentsca.org/iranian-student-organizations) on campus this year to feel closer to home! 
 
 #### Hobbies 
 
