@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
+<div class="serif">
 <!-- headings -->
 
 # Nikki Rejai's Website
@@ -79,3 +80,4 @@ if (UCSD > SDSU) {
 - [ ] Physics HW
 
 
+</div>
