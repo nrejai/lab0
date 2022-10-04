@@ -1,1 +1,4 @@
-Nikki Rejai - Lab 0 & 1 Assignment
+Nikki Rejai - Lab 0 Assignment
+
+## Website:
+<https://nrejai.github.io/lab0/>
