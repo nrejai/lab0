@@ -14,16 +14,20 @@
 <!-- styling text -->
 <span style="line-height:0.5">
 	<!-- relative links -->
-  	<a href="README.md">README</a><
-  	Background
-  	Hobbies
-  	Programming
+  	<a href="README.md">README</a>
+  	[Background](# Background) 
+	[Hobbies](# Hobbies)
+	[Programming](# Programming)
+	[My Favorite Quote](# Quote)
+	[My Favorite Piece of Code I've Written ](# Code)
+	[My Current Task List](# Task List)
 </span>
 	<!-- image -->
-	<picture>
-  		<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg" width=200px height=auto>
-	</picture>
-	<span style="color:CornflowerBlue"> 
+<picture>
+	<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg" width=200px height=auto>
+</picture>
+
+<span style="color:CornflowerBlue"> 
 	
 #### Background 
 
