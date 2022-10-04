@@ -19,7 +19,6 @@
 <!-- relative links -->
 <!-- <a href="README.md">README</a> -->
 <!-- section links -->
-<span style="color:CornflowerBlue" text-align="center">
 
 [Background](# Background) 
 [Hobbies](# Hobbies)
@@ -28,19 +27,12 @@
 [Code](# My Favorite Piece of Code I've Written)
 [Tasks](# My Current Task List)
 
-</span>
-
 <!-- image -->
 
 <picture>
 	<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg" width=200px height=auto>
 </picture>
 
-
-
-
-<!-- <span style="color:CornflowerBlue">  -->
-	
 #### Background 
 
 <!-- external link -->
@@ -71,8 +63,10 @@ My parents moved to the US from Iran for graduate school. I was born in Mountain
 #### My Favorite Quote
 
 <!-- quoting text -->
+<span style="color:CornflowerBlue">
 
-> "Reach for the stars so if you fall you land in the clouds."
+> **"Reach for the stars so if you fall you land in the clouds."**
+</span>
 
 #### My Favorite Piece of Code I've Written 
 
