@@ -4,17 +4,19 @@
 </head>
 <body>
 	<!-- headings -->
-	<!-- <h3 >Nikki Rejai  </h3> -->
 
 ### Nikki Rejai
 
-#### *Contents <!-- section links -->
+<!-- section links -->
+
+#### Contents 
+
 <!-- styling text -->
 <span style="line-height:0.5">
+		<ul>
 			<!-- relative links -->
 			- <a href="README.md">README!</a><h6>
 			- Background
-  		<ul> 
 			<h6> Hobbies </h6>
   			<h6> Programming </h6>
 		</ul>
@@ -42,7 +44,7 @@
 
 ##### My Favorite Quote		
 <!-- quoting text -->
-> Reach for the stars so if you fall you land in the clouds.
+> "Reach for the stars so if you fall you land in the clouds."
 
 ##### My Favorite Piece of Code I've Written 
 <!-- quoting code -->
@@ -60,5 +62,5 @@ if (UCSD > SDSU) {
 - [ ] CSE 101 HW
 - [ ] Physics HW
 </body>
-<!-- </html> -->
+</html>
 
