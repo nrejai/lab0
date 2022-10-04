@@ -4,16 +4,11 @@
 
 # Nikki Rejai's Website
 
-<!-- section links -->
-
 #### Contents: 
 
-<!-- styling text -->
-<!--<span style="line-height:0.5"> -->
-<!-- relative links -->
-<!-- <a href="README.md">README</a> -->
-<!-- section links -->
+<!-- relative links & section links-->
 
+[README]( #README.md)
 [Background](# Background) 
 [Hobbies](# Hobbies)
 [Programming](# Programming)
@@ -38,7 +33,7 @@ My parents moved to the US from Iran for graduate school. I was born in Mountain
 <!-- external link -->
 
 - My interests have always been in performing arts since before I can remember. In the realm of music and arts, my most consistent hobbies have been singing and dancing. I was in multiple competition groups high school. Now I continue with my passion in music through pursuing a cappella group UCSD. I am in a group called the [Tritones](https://www.tritones.ucsd.edu) and this year I am the performance director. I look forward to competing at ICCA competitions either this year or next year!
-- Another interest of mine is traveling! I have traveled with my family a lot, from roadtriping across Oregon to see waterfalls to going to Majorca for the beaches. I am so grateful to have been able to experience these places with my family, and hope to continue this passtime in the future as well.
+- Another interest of mine is traveling! I have traveled with my family a lot, from roadtriping across Oregon to see waterfalls to traveling across seas. I am so grateful to have been able to experience these places with my family, and hope to continue this passtime in the future as well.
 		
 #### Programming
 
@@ -69,6 +64,8 @@ if (UCSD > SDSU) {
 	return true;
 }
 ```
+
+<!-- styling text -->
 
 *which is true*
 
