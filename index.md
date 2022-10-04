@@ -36,10 +36,11 @@
    				</ol>  
   			<li> Now I have grown to really enjoy programming and want to explore more applications of CS including SWE. I am excited to take CSE 110 this quarter to gain more experience and learn more about what it means to be a software engineer.</li></ul>
 
-My favorite quote:			
+##### My Favorite Quote		
 <!-- quoting text -->
 > Reach for the stars so if you fall you land in the clouds.
 
+##### My Favorite Piece of Code I've Written 
 <!-- quoting code -->
 ```
 if (UCSD > SDSU) {
