@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="style.css">
 
-<div class="serif">
 <!-- headings -->
 
 # Nikki Rejai's Website
@@ -19,9 +18,11 @@
 
 <!-- image -->
 
-<picture>
-	<img alt="nikki's headshot" src="pictures/DSC08971copy2.jpg" width=200px height=auto>
-</picture>
+<!-- <picture>
+	<img alt="nikki's headshot" src="pictures/websitephoto.jpg" width=200px height=auto>
+</picture> -->
+
+![picture](pictures/websitephoto.jpg)
 
 #### Background 
 
@@ -78,6 +79,3 @@ if (UCSD > SDSU) {
 - [ ] Apply for Jobs/Internships
 - [ ] CSE 101 HW
 - [ ] Physics HW
-
-
-</div>
