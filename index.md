@@ -1,14 +1,8 @@
-<!-- <markdown>
-<head>
-	<link rel="stylesheet" href="style.css">
-</head>
-<body> -->
-
 <link rel="stylesheet" href="style.css">
 
 <!-- headings -->
 
-# Nikki Rejai's Bio
+# Nikki Rejai's Website
 
 <!-- section links -->
 
@@ -63,10 +57,8 @@ My parents moved to the US from Iran for graduate school. I was born in Mountain
 #### My Favorite Quote
 
 <!-- quoting text -->
-<span style="color:CornflowerBlue">
 
 > **"Reach for the stars so if you fall you land in the clouds."**
-</span>
 
 #### My Favorite Piece of Code I've Written 
 
